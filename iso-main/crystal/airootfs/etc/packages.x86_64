@@ -1,0 +1,48 @@
+# Arch packages
+base
+grub
+arch-install-scripts
+reflector
+pacman-contrib
+linux-firmware
+tree
+linux
+mkinitcpio
+mkinitcpio-archiso
+openssh
+syslinux
+networkmanager
+zsh
+curl
+openbsd-netcat
+memtest86+
+edk2-shell
+sudo
+dosfstools
+systemd-sysvcompat
+cowsay
+btrfs-progs
+xfsprogs
+gparted
+archinstall
+xorg
+xorg-apps
+xorg-xinit
+mesa
+firefox
+
+# Things we're hosting
+neofetch
+
+# Our in-house
+crystal-core
+crystal-branding
+jade
+jade-gui
+onyx
+crystal-wallpapers
+
+# Text editors (issue #2)
+nano
+micro
+vim

@@ -1,0 +1,24 @@
+# Arch packages
+base
+lsb-release
+sudo
+cowsay
+curl
+openbsd-netcat
+openssh
+pacman-contrib
+reflector
+tree
+zsh
+
+# Things we're hosting
+neofetch
+
+# Our packages
+crystal-core
+crystal-branding
+
+# Text editors
+micro
+nano
+vim
